@@ -1,0 +1,11 @@
+//
+//  release.xcconfig
+//  PayPayConvertor
+//
+//  Created by Yuvaraj Selvam on 07/01/24.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_KEY = RELEASE_API_KEY
